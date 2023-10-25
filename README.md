@@ -10,6 +10,7 @@ Learn SwiftUI
 - [Identifiable, NavigationView, List, Section, NavigationLink](https://github.com/Yakupacs/Learn-SwiftUI/tree/main/FavoriteBook)
 - [ObservedObject, Alamofire, Published](https://github.com/Yakupacs/Learn-SwiftUI/tree/main/JokesApp)
 - [NavigationStack, NavigationDestination](https://github.com/Yakupacs/Learn-SwiftUI/tree/main/NavigationStack)
+- [@Environment, NavigationStack, NavigationDestination](https://github.com/Yakupacs/Learn-SwiftUI/tree/main/ShowSegue)
 - [Shape, AnimatableData, GeometryReader](https://github.com/Yakupacs/Learn-SwiftUI/tree/main/CircularShape)
 - [PhotosUI, PhotoPickerItem](https://github.com/Yakupacs/Learn-SwiftUI/tree/main/PhotoPicker)
 - [LocalService, WebService, ViewModel](https://github.com/Yakupacs/Learn-SwiftUI/tree/main/ContactApp)
