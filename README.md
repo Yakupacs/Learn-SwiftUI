@@ -1,5 +1,5 @@
 <h1 align="center">
-LEARN SWIFTUI
+Learn SwiftUI
 </h1>
 
 ## Description
