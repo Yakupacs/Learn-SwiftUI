@@ -12,6 +12,7 @@ Learn SwiftUI
 - [NavigationStack, NavigationDestination](https://github.com/Yakupacs/Learn-SwiftUI/tree/main/NavigationStack)
 - [Shape, AnimatableData, GeometryReader](https://github.com/Yakupacs/Learn-SwiftUI/tree/main/CircularShape)
 - [PhotosUI, PhotoPickerItem](https://github.com/Yakupacs/Learn-SwiftUI/tree/main/PhotoPicker)
+- [LocalService, WebService, ViewModel](https://github.com/Yakupacs/Learn-SwiftUI/tree/main/ContactApp)
 
 ## Screenshots
 
@@ -19,7 +20,7 @@ Learn SwiftUI
 | ----------- | ---------------- | ---------------- |
 | ![Main Screen](https://github.com/Yakupacs/Learn-SwiftUI/assets/73075252/4cba68b7-0b82-4c9a-981d-7a1f49637017) | ![Favourite Screen](https://github.com/Yakupacs/Learn-SwiftUI/assets/73075252/e0c12cd7-4318-47af-b46c-06a1703d22ea) | ![Favourite Screen](https://github.com/Yakupacs/Learn-SwiftUI/assets/73075252/c6684ee7-2989-4442-8658-f43ccff4fad1) |
 
-| Jokes App | 
-| ----------- |
-| <img width="300px" src="https://github.com/Yakupacs/Learn-SwiftUI/assets/73075252/731e6f41-9ed8-4604-9baf-cc38f839fe82"> |
+| Jokes App | Contact App | 
+| ----------- | ----------- |
+| <img width="300px" src="https://github.com/Yakupacs/Learn-SwiftUI/assets/73075252/731e6f41-9ed8-4604-9baf-cc38f839fe82"> | <img width="300px" src="https://github.com/Yakupacs/Learn-SwiftUI/assets/73075252/4d7ae3a1-f38f-4ef4-9540-13142b044c62"> | 
 
